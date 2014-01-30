@@ -1,6 +1,6 @@
 var SETTINGS = (function() {
 	var private = {
-		'GCM_ID': 'AIzaSyCiWYVCwBJVfjg3Y9-CQm4VMe4eO1zsGgM',	//MUST be changed with you GCN_ID
+		'GCM_ID': 'INSERT YOUT GCN_ID',	
 		'GCM_MSGCNT': '1',
 		'APN_GATEWAY': 'gateway.sandbox.push.apple.com',
 		'GCM_TIMETOLIVE': 3000,	// Duration in seconds to hold in GCM and retry before timing out.
