@@ -7,15 +7,15 @@
     "email": "mikeldeltio@outlook.com"
   },
   "keywords": [
-    	"apple",
+    "apple",
 	"google",
-    	"iOS",
+    "iOS",
 	"android",
-    	"apns",
+    "apns",
 	"gcm",
-    	"notifications",
+    "notifications",
 	"push",
-    	"push notifications"
+    "push notifications"
   ],
   "main": "./lib/stratton",
   "bugs": {
@@ -27,10 +27,9 @@
     "url": "https://github.com/MikelDelTio/Stratton"
   },
   "dependencies": {
-    	"apn": "1.0.x",
+    "apn": "1.0.x",
 	"mongojs":"0.9.x",
-	"node-gcm": "0.9.8",
-	"node-parallel" : "0.1.x"
+	"node-gcm": "0.9.8"
   },
   "engines": {
     "node": "*"
