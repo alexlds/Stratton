@@ -7,7 +7,7 @@ Under construction.
 
 <h2> Requirements </h2>
 <ul>
-<li>Node.js - Download and Install <a href="http://www.nodejs.org/download/">Node.js</a>. </li>
-<li>Stratton - <a href="https://github.com/MikelDelTio/Stratton"> Under construction</a> </li>
+<li><a href="http://www.nodejs.org/download/">Node.js</a>. </li>
+<li><a href="https://github.com/MikelDelTio/Stratton"> Stratton</a> </li>
+<li><a href="https://github.com/mcavage/node-restify"> Restify</a> </li>
 </ul>
-
