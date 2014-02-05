@@ -1,7 +1,7 @@
 Node RESTful Cross-Platform Push Server
 =======================
 
-This is a cross-platform push notifications RESTful server built with Stratton and Restify. It currently works for Android and IOS.
+This is a simple cross-platform push notifications RESTful server built with Stratton and Restify. It currently works for Android and IOS.
 
 Under construction.
 
