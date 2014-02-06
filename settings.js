@@ -1,6 +1,6 @@
 var SETTINGS = (function() {
 	var private = {
-		'GCM_ID': 'AIzaSyCiWYVCwBJVfjg3Y9-CQm4VMe4eO1zsGgM',	//MUST be changed with you GCN_ID
+		'GCM_ID': 'PUT-YOUR-GCM-SERVER-API-KEY',	
 		'GCM_MSGCNT': '1',
 		'GCM_RETRIES': 4,
 		'GCM_TIMETOLIVE': 3000,	// Duration in seconds to hold in GCM and retry before timing out.
