@@ -6,13 +6,15 @@ A Node.js module for interfacing with Apple Push Notification and Google Cloud M
 <h3>Installation </h3>
 $ npm install stratton
 
-Features
-•	Powerful and intuitive.
-•	Multi platform push sends.
-•	Automatically detects destination device type.
-•	Unified error handling.
+<h3>Features</h3>
+<ul>
+<li>Powerful and intuitive.</li>
+<li>Multi platform push sends.</li>
+<li>Automatically detects destination device type.</li>
+<li>Unified error handling.</li>
+</ul>
 
-Usage
+<h3>Usage </h3>
 
 First of all:
 
