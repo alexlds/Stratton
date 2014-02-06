@@ -47,4 +47,3 @@ stratton.sendPush(pushId, data, function (result){
 });
 ```
 Result will contain 'true' or 'an error description'.
-
