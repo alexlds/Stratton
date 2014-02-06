@@ -27,9 +27,9 @@
     "url": "https://github.com/MikelDelTio/Stratton"
   },
   "dependencies": {
-	"apn": "1.0.x",
-	"node-gcm": "0.9.8",
-	"node-parallel":"0.1.x"
+	"apn": "*",
+	"node-gcm": "*",
+	"node-parallel":"*"
 
   },
   "engines": {
