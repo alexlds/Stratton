@@ -15,7 +15,6 @@ $ npm install stratton
 </ul>
 
 ## Usage 
-
 First of all:
 ```
 IOS: replace cert.txt and key.txt files on stratton folder with your cert.pem and key.pem. 
