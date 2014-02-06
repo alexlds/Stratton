@@ -17,10 +17,10 @@ $ npm install stratton
 ## Usage 
 
 First of all:
-
+```
 IOS: replace cert.txt and key.txt files on stratton folder with your cert.pem and key.pem. 
 ANDROID: Add to SETTINGS.js your API SERVER KEY  on stratton folder.
-
+```
 Import stratton module:
 ```
 var stratton = requiere('stratton);
@@ -47,5 +47,5 @@ stratton.sendPush(pushId, data, function (result){
 	console.log(result);
 });
 ```
-result will contain 'true' or 'an error description'.
+Result will contain 'true' or 'an error description'.
 
