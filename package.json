@@ -13,6 +13,8 @@
 	"android",
     "apns",
 	"gcm",
+	"blackberry",
+	"bb10",
     "notifications",
 	"push",
     "push notifications"
@@ -29,7 +31,8 @@
   "dependencies": {
 	"apn": "*",
 	"node-gcm": "*",
-	"node-parallel":"*"
+	"node-parallel":"*",
+	"node-bb10" : "*"
 
   },
   "engines": {
