@@ -7,12 +7,7 @@ var SETTINGS = (function() {
 		'GCM_DELAYWHILEIDLE' : false,
 		'APN_GATEWAY': 'gateway.sandbox.push.apple.com',
 		'APN_EXPIRY' : 3600, // Duration in seconds before expiry
-		'APN_SOUND': 'ping.aiff',
-		'BB10_APPID' : 'PUT-YOUR-BB10-APP-ID',
-		'BB10_PASSWORD' : 'PUT-YOUR-BB10-APP-BB10_PASSWORD',
-		'BB10_CPID' : 'PUT-YOUR-BB10-APP-CPID',
-		'BB10_APPNAME' : 'PUT-YOUR-BB10-APP-NAME',
-		'BB10_DELIVERYMETHOD' : 'unconfirmed'
+		'APN_SOUND': 'ping.aiff'
 	};
 	return {
 		get: function(name) { return private[name]; }
