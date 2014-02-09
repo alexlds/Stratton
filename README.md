@@ -3,7 +3,7 @@ Stratton
 
 A Node.js module for interfacing with Apple Push Notification and Google Cloud Messaging services.
 
-(Working on Windows Phone and Blackberry compatibility)
+(Working on Windows Phone)
 
 ## Installation 
 $ npm install stratton
