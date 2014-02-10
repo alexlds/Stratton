@@ -9,10 +9,13 @@
   "keywords": [
     "apple",
 	"google",
-    "iOS",
+	"microsoft",
+    "ios",
 	"android",
+	"wphone",
     "apns",
 	"gcm",
+	"mpns,"
     "notifications",
 	"push",
     "push notifications"
@@ -29,6 +32,7 @@
   "dependencies": {
 	"apn": "*",
 	"node-gcm": "*",
+	"mpns" : "*",
 	"node-parallel":"*"
 
   },
