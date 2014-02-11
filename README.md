@@ -47,3 +47,8 @@ stratton.sendPush(pushId, data, function (result){
 });
 ```
 Result will contain 'true' or 'an error description'.
+
+
+##Resources
+<ul>
+<li> <a href="http://aerogear.org/docs/guides/aerogear-push-android/google-setup/"> Google Cloud Messaging setup guide</A>
