@@ -51,4 +51,7 @@ Result will contain 'true' or 'an error description'.
 
 ##Resources
 <ul>
-<li> <a href="http://aerogear.org/docs/guides/aerogear-push-android/google-setup/"> Google Cloud Messaging setup guide</A>
+<li> <a href="http://aerogear.org/docs/guides/aerogear-push-android/google-setup/"> Google Cloud Messaging setup guide</a> </li>
+<li> <a href="http://aerogear.org/docs/guides/aerogear-push-ios/app-id-ssl-certificate-apns/"> Apple Push Notification setup guide Part 1</a> </li>
+<li> <a href="https://github.com/argon/node-apn/wiki/Preparing-Certificates"> Apple Push Notification setup guide Part 2</a> </li>
+</ul>
