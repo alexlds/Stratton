@@ -22,7 +22,7 @@ ANDROID: Add to SETTINGS.js your API SERVER KEY  on stratton folder.
 ```
 Import stratton module:
 ```
-var stratton = requiere('stratton);
+var stratton = requiere('stratton');
 ```
 
 Define destination device ID. You can send to multiple devices, independently of platform, creating an array with different destination device IDs.
