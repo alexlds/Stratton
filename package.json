@@ -1,7 +1,7 @@
 {
   "name": "stratton",
   "description": "A cross-platform push service interface for Node.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Mikel Del Tio",
     "email": "mikeldeltio@outlook.com"
