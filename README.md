@@ -1,10 +1,10 @@
-Stratton
+Node Stratton
 ========
 
-A Node.js module for interfacing with Apple Push Notification, Google Cloud Messaging and Microsoft Push Notification services.
+A Node.js module for interfacing with Apple Push Notification, Google Cloud Messaging, Microsoft Push Notification and Amazon Device Messaging services.
 
 ## Installation 
-$ npm install stratton
+$ npm install node-stratton
 
 #Features
 <ul>

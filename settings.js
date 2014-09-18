@@ -7,7 +7,9 @@ var SETTINGS = (function() {
 		'GCM_DELAYWHILEIDLE' : false,
 		'APN_GATEWAY': 'gateway.sandbox.push.apple.com',
 		'APN_EXPIRY' : 3600, 
-		'APN_SOUND': 'ping.aiff'
+		'APN_SOUND': 'ping.aiff',
+		"ADM_CLIEND_ID": 'PUT-YOUR-ADM-CLIENT-ID',
+		"ADM_CLIEND_SECRET": 'PUT-YOUR-ADM-CLIENT-SECRET'
 	};
 	return {
 		get: function(name) { return private[name]; }
