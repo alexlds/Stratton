@@ -1,23 +1,25 @@
 {
-  "name": "node-stratton",
+  "name": "node-push-notify",
   "description": "A cross-platform push service interface for Node.js",
-  "version": "1.0.2",
+  "version": "0.1.0",
   "author": {
-    "name": "Mikel Del Tio",
-    "email": "mikeldeltio@outlook.com"
+    "name": "Alex K",
+    "email": "alex@lodossteam.com"
   },
   "keywords": [
     "apple",
-	"google",
-	"microsoft",
+    "google",
+    "microsoft",
+    "amazon"
     "ios",
-	"android",
-	"wphone",
+    "android",
+    "wphone",
     "apns",
-	"gcm",
-	"mpns",
+    "gcm",
+    "mpns",
+    "adm",
     "notifications",
-	"push",
+    "push",
     "push notifications"
   ],
   "main": "./lib/stratton",
@@ -30,11 +32,11 @@
     "url": "https://github.com/MikelDelTio/Stratton"
   },
   "dependencies": {
-	"apn": "*",
-	"node-gcm": "*",
-	"mpns" : "*",
-	"node-parallel":"*",
-  "node-adm": "*"
+    "apn": "*",
+    "node-gcm": "*",
+    "mpns" : "*",
+    "node-parallel":"*",
+    "node-adm": "*"
   },
   "engines": {
     "node": "*"
