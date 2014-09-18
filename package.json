@@ -10,7 +10,7 @@
     "apple",
     "google",
     "microsoft",
-    "amazon"
+    "amazon",
     "ios",
     "android",
     "wphone",
@@ -24,12 +24,12 @@
   ],
   "main": "./lib/stratton",
   "bugs": {
-    "url": "https://github.com/MikelDelTio/Stratton",
-    "email": "mikeldeltio@outlook.com"
+    "url": "https://github.com/alexlds/Stratton",
+    "email": "alex@lodossteam.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MikelDelTio/Stratton"
+    "url": "https://github.com/alexlds/Stratton"
   },
   "dependencies": {
     "apn": "*",
